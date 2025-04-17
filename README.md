@@ -2,6 +2,6 @@
 
 # [Join the Collective](https://opencollective.com/echelonlabs)
 
-# To support safety and integrity at the frontier of interpretability research
+# To advance safety and integrity at the frontier of interpretability research
 
 </div>
